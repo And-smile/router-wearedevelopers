@@ -1,5 +1,5 @@
 # router-wearedevelopers
-Router example for WeAreDevelopers conference presentation
+Router example for WeAreDevelopers conference workshop "Splitting the monolith with zero downtime"
 
 ### Description
 The project shows 4 different approaches of routing traffic to newly extracted service.
