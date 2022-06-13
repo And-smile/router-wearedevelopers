@@ -1,0 +1,6 @@
+routing:
+  host: localhost:8080/service-two
+  percentage: 100
+#  type: DEFAULT
+#  type: FALLBACK
+  type: PARALLEL
